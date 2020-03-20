@@ -1,2 +1,2 @@
 # OutsourcingCompany-In-ShenZhen
-深圳的外包公司名单
+深圳外包公司名单
